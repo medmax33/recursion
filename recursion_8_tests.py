@@ -1,6 +1,6 @@
-from recursion_8_v3 import find_all_files
+from recursion_8_v4 import recursion_find_all_files
 
-files = find_all_files('/home/maxx/MEGAsync/py/skillsmart/OOP.1')
+files = recursion_find_all_files('/home/iprogrammer/MEGAsync/py/skillsmart/OOP.1')
 
 print(len(files))
 print(files)
